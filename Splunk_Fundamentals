@@ -1,1 +1,11 @@
+Splunk Architecture
+-------------------
+
+Index - https://docs.splunk.com/Documentation/Splunk/8.1.0/Indexer/Howindexingworks
+
+Search Head - https://docs.splunk.com/Splexicon:Searchhead
+
+Forwarder - https://docs.splunk.com/Documentation/Forwarder/8.1.0/Forwarder/Abouttheuniversalforwarder
+https://docs.splunk.com/Splexicon:Heavyforwarder
+
 
