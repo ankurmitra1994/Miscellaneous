@@ -16,6 +16,9 @@ Splunk Enterprise Architecture & Processes - https://docs.splunk.com/Documentati
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
+Splunk Operations
+-----------------
+
 Datasets - https://docs.splunk.com/Documentation/SCS/current/Search/Datasets
 
 Searching in Splunk
@@ -31,6 +34,8 @@ Reports - https://docs.splunk.com/Documentation/Splunk/8.1.0/Report/Createandedi
 
 Dashboards - https://docs.splunk.com/Documentation/Splunk/8.1.0/SearchTutorial/Createnewdashboard
 
+Alerts - https://docs.splunk.com/Documentation/Splunk/8.1.0/Alert/Aboutalerts
+
 Metrics - https://docs.splunk.com/Documentation/Splunk/8.1.0/Metrics/Overview
 
 Quick Reference Guide - https://www.splunk.com/pdfs/solution-guides/splunk-quick-reference-guide.pdf
@@ -38,5 +43,15 @@ Quick Reference Guide - https://www.splunk.com/pdfs/solution-guides/splunk-quick
 Splunk Search Modes - https://docs.splunk.com/Splexicon:Searchmode
 
 Transforming Commands - https://docs.splunk.com/Splexicon:Transformingcommand
+
+Lookups - https://docs.splunk.com/Documentation/Splunk/8.1.0/Knowledge/Aboutlookupsandfieldactions
+
+Search Macros - https://docs.splunk.com/Documentation/Splunk/8.1.0/Knowledge/Definesearchmacros
+
+Knowledge Objects - https://docs.splunk.com/Splexicon:Knowledgeobject
+
+Field Extraction - https://docs.splunk.com/Splexicon:Fieldextraction
+
+Workflow actions - https://docs.splunk.com/Documentation/Splunk/8.1.0/Knowledge/CreateworkflowactionsinSplunkWeb
 
 
