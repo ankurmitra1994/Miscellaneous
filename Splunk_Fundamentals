@@ -10,6 +10,8 @@ https://docs.splunk.com/Splexicon:Searchpeer
 Forwarder - https://docs.splunk.com/Documentation/Forwarder/8.1.0/Forwarder/Abouttheuniversalforwarder
 https://docs.splunk.com/Splexicon:Heavyforwarder
 
+Buckets & Indexer Clusters - https://docs.splunk.com/Documentation/Splunk/8.1.0/Indexer/Bucketsandclusters#:~:text=Splunk%20Enterprise%20stores%20indexed%20data,bucket%2Dby%2Dbucket%20basis.
+
 Splunk Enterprise Architecture & Processes - https://docs.splunk.com/Documentation/Splunk/8.1.0/Installation/Splunksarchitectureandwhatgetsinstalled
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,3 +34,5 @@ Dashboards - https://docs.splunk.com/Documentation/Splunk/8.1.0/SearchTutorial/C
 Metrics - https://docs.splunk.com/Documentation/Splunk/8.1.0/Metrics/Overview
 
 Quick Reference Guide - https://www.splunk.com/pdfs/solution-guides/splunk-quick-reference-guide.pdf
+
+
